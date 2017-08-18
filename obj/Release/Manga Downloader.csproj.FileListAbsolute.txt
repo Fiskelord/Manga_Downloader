@@ -1,0 +1,22 @@
+C:\Users\57212\Desktop\Manga_Downloader_CS\installer\Manga Downloader.exe.config
+C:\Users\57212\Desktop\Manga_Downloader_CS\installer\Manga Downloader.exe
+C:\Users\57212\Desktop\Manga_Downloader_CS\installer\Manga Downloader.pdb
+C:\Users\57212\Desktop\Manga_Downloader_CS\installer\DotNetZip.dll
+C:\Users\57212\Desktop\Manga_Downloader_CS\installer\HtmlAgilityPack.dll
+C:\Users\57212\Desktop\Manga_Downloader_CS\installer\DotNetZip.xml
+C:\Users\57212\Desktop\Manga_Downloader_CS\installer\HtmlAgilityPack.pdb
+C:\Users\57212\Desktop\Manga_Downloader_CS\installer\HtmlAgilityPack.xml
+C:\Users\57212\Desktop\Manga_Downloader_CS\obj\Release\Manga Downloader.csprojResolveAssemblyReference.cache
+C:\Users\57212\Desktop\Manga_Downloader_CS\obj\Release\Manga_Downloader.MainWindow.resources
+C:\Users\57212\Desktop\Manga_Downloader_CS\obj\Release\Manga_Downloader.Properties.Resources.resources
+C:\Users\57212\Desktop\Manga_Downloader_CS\obj\Release\Manga Downloader.csproj.GenerateResource.Cache
+C:\Users\57212\Desktop\Manga_Downloader_CS\bin\Release\Manga Downloader.exe.config
+C:\Users\57212\Desktop\Manga_Downloader_CS\bin\Release\Manga Downloader.exe
+C:\Users\57212\Desktop\Manga_Downloader_CS\bin\Release\Manga Downloader.pdb
+C:\Users\57212\Desktop\Manga_Downloader_CS\bin\Release\DotNetZip.dll
+C:\Users\57212\Desktop\Manga_Downloader_CS\bin\Release\HtmlAgilityPack.dll
+C:\Users\57212\Desktop\Manga_Downloader_CS\bin\Release\DotNetZip.xml
+C:\Users\57212\Desktop\Manga_Downloader_CS\bin\Release\HtmlAgilityPack.pdb
+C:\Users\57212\Desktop\Manga_Downloader_CS\bin\Release\HtmlAgilityPack.xml
+C:\Users\57212\Desktop\Manga_Downloader_CS\obj\Release\Manga Downloader.exe
+C:\Users\57212\Desktop\Manga_Downloader_CS\obj\Release\Manga Downloader.pdb
